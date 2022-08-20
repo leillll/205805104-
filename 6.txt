@@ -1,0 +1,15 @@
+1.什么是git？什么是github？二者什么关系
+2.代码解释
+git clone https://github.com/lihuoqin/homework.git
+git add *
+git  commit -m "tt"
+git  push
+git  pull
+
+3.操作题：在github或gitee创建一个公有库，库名以学号命名，使用git命令下载, 提交或修改文件，推送回去。截图3张（创库完成、git命令下载、推送完成）
+
+4.操作题：git分支与合并
+创建  https://github.com/lihuoqin/homework 或 https://gitee.com/lihuoqin/homework 分支
+添加 个人学号姓名命名的文件， 如 205805236黄周武 ，内容随意，不要发政治话题或骂人的话
+提交合并请求
+截图2张（创建分支完成，合并请求）
